@@ -1,18 +1,10 @@
 {
-  "name": "conductor",
-  "version": "0.1.0",
-  "description": "Personal delegation system: plan, work, review, and compound with high-taste guardrails. Human-in-the-loop, no AI slop.",
-  "author": {
-    "name": "Dan",
-    "email": "dan@example.com"
-  },
-  "license": "MIT",
-  "keywords": [
-    "delegation",
-    "workflow",
-    "planning",
-    "code-review",
-    "self-improving"
-  ]
+	"name": "conductor",
+	"version": "0.1.0",
+	"license": "MIT",
+	"description": "My personal delegation system. Plan, work, review, and compound with high-taste guardrails and ruthless focus on reducing AI slop.",
+	"author": {
+		"name": "Dan Philibin",
+		"email": "dan@danphilibin.com"
+	}
 }
-

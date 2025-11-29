@@ -1,0 +1,14 @@
+{
+  "name": "conductor-marketplace",
+  "owner": {
+    "name": "Dan"
+  },
+  "plugins": [
+    {
+      "name": "conductor",
+      "source": "./plugins/conductor",
+      "description": "Personal delegation system: plan, work, review, and compound with high-taste guardrails."
+    }
+  ]
+}
+
