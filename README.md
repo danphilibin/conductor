@@ -25,6 +25,10 @@ Or if publishing to a marketplace:
 /plugin install conductor
 ```
 
+## Dependencies
+
+Currently relies on using Linear via MCP for issue tracking. I've been trying [beads](https://github.com/steveyegge/beads?tab=readme-ov-file) but I don't like having issue-tracking coupled with version control.
+
 ## Commands
 
 | Command     | Description                                             |

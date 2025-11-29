@@ -10,7 +10,7 @@ Build a delegation system that lets me operate more like a tech lead orchestrati
 
 - **No AI slop**: The output has to meet my quality bar - this is non-negotiable because my whole value prop is taste
 - **Keeps me in the loop**: I'm not trying to disappear - I still want to review, make decisions, course-correct. Just not write every line or plan every detail
-- **Increases surface area**: The point is I can work on more things simultaneously (Relay + side project + Corner) without feeling scattered or like I'm making linear progress
+- **Increases surface area**: The point is I can work on more things simultaneously without feeling scattered or like I'm making linear progress
 - **Fast feedback loops**: If delegating to an agent takes 30 minutes to plan, it's not worth it. I need to know quickly if something's working or needs my intervention. Focus on finding friction points and reducing them.
 - **Self-improving**: The system should learn and adapt to my personal taste over time - my specific preferences for code style, architecture decisions, what constitutes "done", etc. This becomes part of my highly customized personal toolkit.
 
@@ -256,14 +256,8 @@ The self-improvement component - make this a self-improving system.
 
 **Status:** Most open-ended - research project to figure out the best format
 
-## Next Steps
-
-Start ridiculously small. Pick one annoying repeated task and build something that handles just that one thing in a way that actually matches how I think. Don't try to build the whole system yet.
-
-Timebox exploration to ~1 hour every Saturday morning, see what emerges.
-
 ## Meta Notes
 
 This is an experiment to see if I can work this way. Might discover it feels terrible or that the overhead is worse than doing it myself. Or might discover I'm actually pretty good at it and it unlocks a new gear.
 
-Building this skill also helps prepare for senior roles where I'll need to be comfortable reviewing code and guiding work rather than always being hands-on-keyboard.
+Building this skill also helps prepare for roles where I'll need to be comfortable reviewing code and guiding work rather than always being hands-on-keyboard.
